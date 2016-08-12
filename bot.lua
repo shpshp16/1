@@ -20,6 +20,8 @@ local help = [[
 *commands:*`for admin`
 `/ban` ✴️
 بن کردن یک شخص
+`/translate` ✴
+ترحمه
 `/unban` ✴️
 ان بن کردن یک شخص
 `/users` ✴️
