@@ -1,6 +1,9 @@
 {
-  "name": "My First Token",
-  "symbol": "MFT",
-  "description": "A token created with the Pump SDK",
-  "image": "https://moralis.com/wp-content/uploads/2025/03/Blog-Pump-Fun-API-What-is-Pump-Fun-1024x561.png"
+  "createdOn": "pump.fun",
+  "description": "Deployed using https://j7tracker.io",
+  "image": "https://thumbnails.padre.gg/SOLANA-AVtE6MtX1am2yHhFeEvmhSJmNezwnuAhUADxx1HTpump",
+  "name": "not the name",
+  "symbol": "VIOLET",
+  "twitter": "https://x.com/LambS0L/status/2058107525711479280?s=20",
+  "website": ""
 }
